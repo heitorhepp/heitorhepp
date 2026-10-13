@@ -30,25 +30,53 @@
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
-### Frontend
+## 💻 Linguagens e desenvolvimento
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bootstrap" />
 </p>
 
-### Backend
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres" />
+## ⚙️ Frameworks e bibliotecas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,prisma" />
 </p>
 
-### DevOps & Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+## 🗄️ Bancos de dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,neon,mongodb" />
+</p>
+
+---
+
+## ☁️ Cloud Computing — Em aprendizado
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+---
+
+## 🚀 DevOps e ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,ansible,bash,linux,figma,obsidian" />
+</p>
+
+---
+
+## 🧪 Testes
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
 
 ---
 
