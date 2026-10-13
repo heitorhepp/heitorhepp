@@ -1,4 +1,8 @@
-🚀 Me chamo Heitor Barbosa Hepp, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Unisenac Pelotas.
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+</div>
+
+🚀 Me chamo Heitor Barbosa Hepp e estou cursando Análise e Desenvolvimento de Sistemas no Unisenac Pelotas.
 ---
 💻 Apaixonado por tecnologia  
 🚀 Sempre disposto a aprender coisas novas  
@@ -30,15 +34,11 @@
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
 ## 💻 Linguagens e desenvolvimento
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bootstrap" />
 </p>
-
----
 
 ## ⚙️ Frameworks e bibliotecas
 
@@ -46,15 +46,11 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,prisma" />
 </p>
 
----
-
 ## 🗄️ Bancos de dados
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,neon,mongodb" />
 </p>
-
----
 
 ## ☁️ Cloud Computing — Em aprendizado
 
@@ -62,17 +58,13 @@
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
----
-
 ## 🚀 DevOps e ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,ansible,bash,linux,figma,obsidian" />
 </p>
 
----
-
-## 🧪 Testes
+## 🔍 Testes
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=jest" />
@@ -102,3 +94,7 @@
 
 ⭐ Se você gostou do meu trabalho, considere dar uma estrela em um repositório  
 🤝 Sempre aberto a colaborações, parcerias e ideias interessantes
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+</div>
