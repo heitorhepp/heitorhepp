@@ -49,7 +49,7 @@
 ## 🗄️ Bancos de dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,neon,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ## ☁️ Cloud Computing — Em aprendizado
